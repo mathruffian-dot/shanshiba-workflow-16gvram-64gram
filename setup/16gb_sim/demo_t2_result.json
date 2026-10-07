@@ -1,0 +1,48 @@
+{
+ "tier": "t2",
+ "bg": 12,
+ "stages": [
+  {
+   "stage": "chars",
+   "ok": true,
+   "seconds": 24.5,
+   "vram_peak_mib": 14600,
+   "sys_avail_min_gib": 48.69
+  },
+  {
+   "stage": "frames",
+   "ok": true,
+   "seconds": 220.0,
+   "vram_peak_mib": 14556,
+   "sys_avail_min_gib": 39.24
+  },
+  {
+   "stage": "voices",
+   "ok": true,
+   "seconds": 311.7,
+   "vram_peak_mib": 8816,
+   "sys_avail_min_gib": 38.85
+  },
+  {
+   "stage": "h3",
+   "ok": true,
+   "seconds": 258.9,
+   "vram_peak_mib": 14614,
+   "sys_avail_min_gib": 24.05
+  },
+  {
+   "stage": "music",
+   "ok": true,
+   "seconds": 49.0,
+   "vram_peak_mib": 14664,
+   "sys_avail_min_gib": 48.45
+  },
+  {
+   "stage": "cut",
+   "ok": true,
+   "seconds": 29.5,
+   "vram_peak_mib": 932,
+   "sys_avail_min_gib": 48.41
+  }
+ ]
+}
